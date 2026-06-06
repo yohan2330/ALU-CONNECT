@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # alu_connect
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# ALU-CONNECT
+>>>>>>> f90deba0735bec9747ada793b3a61817cf64f904
